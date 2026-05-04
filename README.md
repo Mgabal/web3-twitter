@@ -3,7 +3,7 @@
 A decentralized social media platform built on the Ethereum blockchain. Post tweets, build your on-chain identity, and like content — all without a centralized authority.
 
 > **Live Demo:** [web3-twitter-ebon.vercel.app](https://web3-twitter-ebon.vercel.app)  
-> **Contract:** [Sepolia Etherscan](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
+> **Contract:** [Sepolia Etherscan](https://sepolia.etherscan.io/address/0x5821b3af0316a4ccaacdebb99669740ce655100b)
 
 ---
 
